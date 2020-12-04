@@ -42,6 +42,6 @@ export NODE_ENV = demo
 
 ## Test cases
 
-![xmind](./document/Airwallex endpoint test.png)
+![xmind](./document/Airwallex%20endpoint%20test.png)
 
 Test case could be added in ./test/test.js
